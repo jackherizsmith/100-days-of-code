@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 0: 20th September, 2020
+## Day 1: 20th September, 2020
 
 **Today's progress**: Worked on a README for a FAC20 side project, Trouble Shooter API
 
