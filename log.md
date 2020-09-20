@@ -1,30 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 0: 20th September, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's progress**: Worked on a README for a FAC20 side project, Trouble Shooter API
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Really pleased with how the project is shaping up, translating a flow diagram of yes/no choices into a format that can be stored with SQL and sent as an simple (i.e. un-nested object). The README is off to a great start, today we got most of the "Contributing to this project" section done as well as starting on the API docs. I think it's great to write a README first as it helps to clarify what the user can expect and how they can interact, before jumping in to build anything.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Trouble Shooter API README](https://github.com/fac20/Trouble-Shooter-API/blob/b4fc94b2f6a3e540dc8ebe93897ddb86939438cd/README.md)
